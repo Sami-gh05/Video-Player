@@ -61,10 +61,7 @@ The project follows the MVC pattern with a clear separation of concerns:
 
 ## 🚀 Getting Started
 
-1. 📥 Clone the repository
-2. 💻 Import the project into your preferred Java IDE
-3. 🔨 Build the project
-4. ▶️ Run the application
+- This repository just contains the Model and Controller parts of MVC model. Therefore, the View part should also be implemented as the Graphical User Interface to **actually** run the project.
 
 ## 📦 Dependencies
 
