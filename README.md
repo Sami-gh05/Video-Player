@@ -12,12 +12,12 @@ src/
 ```
 
 ## 🏗️ Architecture
-
+You can see the UML diagram of project in **docs** folder.  
 The project follows the MVC pattern with a clear separation of concerns:
-
 - **Model** 🧠: Manages the data and business logic of the video player
 - **Controller** 🎮: Acts as an intermediary between the model and view, handling user input and updating the model accordingly
 - **Exceptions** ⚠️: Custom exception handling for robust error management
+- Note:  You can see the UML diagram of project in **docs** folder.
 
 ## 🚀 Potential Improvements
 
